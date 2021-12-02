@@ -5,3 +5,7 @@
 ## Como usar
 
 - Dados de orçamentos aparecerão na tela do usuário e para ver mais detalhes basta clicar no botão do orçamento que deseja-se avaliar.
+
+## Demo
+
+<p align="center"><img src="./demo/demo.gif"></p>
